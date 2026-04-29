@@ -1,4 +1,6 @@
 # 🚀 Meeting Scheduler (Java Swing)
+<img width="953" height="506" alt="image" src="https://github.com/user-attachments/assets/c0256978-a820-4c9a-af29-44c92177c5f1" />
+
 
 A desktop-based **Meeting Scheduler application** built using Java Swing. It provides a simple and responsive interface to manage meetings with features like conflict detection, filtering, sorting, and detailed viewing.
 
